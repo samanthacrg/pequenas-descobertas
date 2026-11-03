@@ -1,0 +1,280 @@
+{
+  "version": "4.0-beta",
+  "title": "Pequenas Descobertas — Taxonomia editorial",
+  "description": "Organização editorial para descoberta de atividades; não constitui protocolo nem taxonomia oficial.",
+  "areas": [
+    {
+      "id": "comunicacao-pragmatica",
+      "title": "Comunicação e pragmática",
+      "icon": "message",
+      "description": "Iniciativas, funções comunicativas, reciprocidade e participação nas trocas sociais.",
+      "status": "base",
+      "subskills": [
+        "Intenção e iniciativa comunicativa",
+        "Solicitar, recusar e protestar",
+        "Comentar e compartilhar informações",
+        "Fazer e responder perguntas",
+        "Atenção compartilhada",
+        "Reciprocidade e alternância de turnos",
+        "Conversação e manutenção do tópico",
+        "Relatos e narrativas em interação"
+      ],
+      "resources": [
+        "pula-macaco",
+        "bolhas",
+        "caixa",
+        "quebra-cabeca"
+      ],
+      "games": [
+        "surpresa",
+        "turnos"
+      ]
+    },
+    {
+      "id": "caa-multimodal",
+      "title": "CAA e comunicação multimodal",
+      "icon": "message",
+      "description": "Comunicação funcional com diferentes modalidades, implementação da CAA e participação dos parceiros.",
+      "status": "base",
+      "subskills": [
+        "Expressão funcional por diferentes modalidades",
+        "Modelagem de linguagem no sistema habitual",
+        "Competência linguística na CAA",
+        "Competência operacional e métodos de acesso",
+        "Competências social e estratégica",
+        "Comunicação com diferentes parceiros e contextos",
+        "Autonomia comunicativa e respeito às recusas"
+      ],
+      "resources": [
+        "quebra-cabeca",
+        "pula-macaco",
+        "bolhas",
+        "bonecos",
+        "caixa",
+        "blocos"
+      ],
+      "games": [
+        "surpresa",
+        "compreensao",
+        "fazdeconta",
+        "turnos"
+      ]
+    },
+    {
+      "id": "linguagem-receptiva",
+      "title": "Linguagem receptiva",
+      "icon": "ear",
+      "description": "Compreensão de vocabulário, enunciados e relações linguísticas em diferentes contextos.",
+      "status": "base",
+      "subskills": [
+        "Vocabulário compreensivo: pessoas, objetos e ações",
+        "Compreensão de instruções contextualizadas",
+        "Instruções com múltiplas informações",
+        "Perguntas: quem, o quê, onde, quando, por quê",
+        "Conceitos e relações espaciais, temporais e quantitativas",
+        "Compreensão de estruturas morfossintáticas",
+        "Inferências e linguagem não literal"
+      ],
+      "resources": [
+        "quebra-cabeca",
+        "caixa",
+        "blocos"
+      ],
+      "games": [
+        "compreensao"
+      ]
+    },
+    {
+      "id": "linguagem-expressiva",
+      "title": "Linguagem expressiva",
+      "icon": "book",
+      "description": "Construção e organização de mensagens, faladas, escritas ou produzidas por CAA.",
+      "status": "base",
+      "subskills": [
+        "Ampliação lexical e vocabulário funcional",
+        "Relações semânticas, categorias e atributos",
+        "Combinação de palavras e construção de enunciados",
+        "Morfologia e organização sintática",
+        "Descrições e explicações",
+        "Produção de perguntas",
+        "Relatos pessoais e organização de narrativas",
+        "Comunicação de opiniões, desejos e experiências"
+      ],
+      "resources": [
+        "caixa",
+        "bonecos",
+        "blocos"
+      ],
+      "games": [
+        "surpresa",
+        "fazdeconta"
+      ]
+    },
+    {
+      "id": "brincadeira-interacao",
+      "title": "Brincadeira e interação",
+      "icon": "teddy",
+      "description": "Exploração de brinquedos, brincadeiras simbólicas e construção conjunta de experiências lúdicas.",
+      "status": "base",
+      "subskills": [
+        "Exploração funcional e diversificada de objetos",
+        "Imitação funcional e participação conjunta",
+        "Brincadeira de faz de conta e uso simbólico",
+        "Sequências de ações e pequenos enredos",
+        "Flexibilidade e ampliação do repertório lúdico",
+        "Brincadeira cooperativa e negociação de propostas"
+      ],
+      "resources": [
+        "bonecos",
+        "blocos",
+        "pula-macaco",
+        "bolhas"
+      ],
+      "games": [
+        "fazdeconta",
+        "turnos"
+      ]
+    },
+    {
+      "id": "fala-fonologia",
+      "title": "Fala e fonologia",
+      "icon": "smile",
+      "description": "Organização dos sons da fala, inteligibilidade e aspectos de planejamento e execução motora.",
+      "status": "base",
+      "subskills": [
+        "Inventário de sons e estruturas silábicas",
+        "Contrastes fonológicos e processos fonológicos",
+        "Articulação em contextos de fala",
+        "Inteligibilidade da fala em comunicação funcional",
+        "Planejamento e programação motora da fala",
+        "Sequenciamento e transições em fala",
+        "Produções orais funcionais e generalização"
+      ],
+      "resources": [],
+      "games": []
+    },
+    {
+      "id": "metalinguagem",
+      "title": "Habilidades metalinguísticas",
+      "icon": "puzzle",
+      "description": "Reflexão sobre a estrutura e o funcionamento da linguagem oral e escrita.",
+      "status": "base",
+      "subskills": [
+        "Consciência de palavras, rimas e aliterações",
+        "Consciência silábica",
+        "Consciência fonêmica",
+        "Consciência morfológica e sintática",
+        "Julgamento e manipulação de estruturas linguísticas",
+        "Memória fonológica e acesso lexical: demandas relacionadas",
+        "Monitoramento e autocorreção linguística"
+      ],
+      "resources": [],
+      "games": []
+    },
+    {
+      "id": "leitura-escrita",
+      "title": "Leitura e escrita",
+      "icon": "book",
+      "description": "Aprendizagem e uso funcional da linguagem escrita, desde habilidades iniciais até textos.",
+      "status": "base",
+      "subskills": [
+        "Letramento emergente e função social da escrita",
+        "Correspondências entre grafemas e fonemas",
+        "Decodificação de palavras e pseudopalavras",
+        "Fluência de leitura",
+        "Compreensão de textos",
+        "Ortografia e convenções de escrita",
+        "Produção e revisão de textos",
+        "Vocabulário e linguagem acadêmica"
+      ],
+      "resources": [],
+      "games": []
+    },
+    {
+      "id": "voz-fluencia",
+      "title": "Voz e fluência",
+      "icon": "volume",
+      "description": "Voz, comunicação vocal e fluência da fala — conteúdos especializados a desenvolver.",
+      "status": "futuro",
+      "subskills": [
+        "Qualidade vocal, conforto e uso da voz",
+        "Fluência e características da gagueira",
+        "Impacto comunicativo, participação e atitudes",
+        "Estratégias individualizadas por avaliação profissional"
+      ],
+      "resources": [],
+      "games": []
+    },
+    {
+      "id": "audicao-percepcao",
+      "title": "Audição e percepção de fala",
+      "icon": "ear",
+      "description": "Acesso e participação auditiva, percepção da fala e comunicação em contextos de escuta.",
+      "status": "futuro",
+      "subskills": [
+        "Acesso auditivo e condições de escuta",
+        "Percepção e discriminação da fala",
+        "Compreensão em condições diversas de escuta",
+        "Estratégias de comunicação e acessibilidade auditiva"
+      ],
+      "resources": [],
+      "games": []
+    },
+    {
+      "id": "motricidade-alimentacao",
+      "title": "Motricidade orofacial e alimentação",
+      "icon": "heart",
+      "description": "Questões de função orofacial, alimentação e deglutição — requerem avaliação e orientação especializadas.",
+      "status": "futuro",
+      "subskills": [
+        "Funções orofaciais em contexto clínico",
+        "Mastigação e funções alimentares",
+        "Segurança e participação nas refeições",
+        "Adaptações e orientações individualizadas aos parceiros"
+      ],
+      "resources": [],
+      "games": []
+    }
+  ],
+  "transversal_filters": {
+    "type": [
+      "Jogo digital",
+      "Brinquedo ou jogo físico",
+      "Material imprimível (futuro)"
+    ],
+    "modality": [
+      "Fala",
+      "CAA",
+      "Gestos e apontar",
+      "Resposta por olhar",
+      "Comunicação multimodal"
+    ],
+    "context": [
+      "Atendimento",
+      "Família",
+      "Escola",
+      "Outros contextos"
+    ],
+    "support": [
+      "Sem apoio adicional",
+      "Modelagem",
+      "Pistas visuais",
+      "Pistas verbais/gestuais",
+      "Acesso alternativo"
+    ],
+    "participation": [
+      "Iniciar",
+      "Responder",
+      "Compartilhar",
+      "Negociar",
+      "Generalizar"
+    ]
+  },
+  "criteria": [
+    "Recursos podem estar associados a múltiplas habilidades.",
+    "CAA é área de competência e meio transversal às demais áreas.",
+    "O jogo não ensina por si só: mediação, acessibilidade, participação e contexto importam.",
+    "Metas motoras de fala, alimentação/deglutição e outros temas especializados exigem avaliação profissional e não devem ser automatizados como exercícios universais.",
+    "Conteúdos devem informar objetivo clínico, modo de mediação, adaptações, segurança, contexto, fontes e revisão editorial."
+  ]
+}
