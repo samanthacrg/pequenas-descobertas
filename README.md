@@ -1,28 +1,20 @@
-# Pequenas Descobertas · v2.0
+# Pequenas Descobertas — v3.0
 
-Biblioteca experimental de recursos fonoaudiológicos, pensada para uso mediado por profissionais.
+Biblioteca experimental de recursos fonoaudiológicos com jogos digitais e fichas de recursos físicos.
 
-## Recursos disponíveis
+## Conteúdo
 
-- **Início**: nova apresentação e acesso rápido por objetivos terapêuticos.
-- **Jogos digitais**: preserva os quatro jogos da versão anterior (surpresa, compreensão, faz de conta, turnos).
-- **Recursos físicos**: 6 fichas com objetivos, mediação, adaptações e possibilidades de modelagem na CAA, com filtro por habilidade e campo de busca.
-- **Sobre**: escopo clínico e desenvolvimento futuro.
+- Nova identidade visual com ícones vetoriais e sem emojis.
+- Quatro jogos digitais mediados, com ilustrações vetoriais.
+- Seis fichas de recursos físicos, filtros por habilidade e busca.
+- Exemplos de palavras essenciais (core words) para modelagem no sistema de CAA habitual.
+- Registro de observação somente na sessão atual do navegador, sem envio a servidor.
 
-## Publicar a atualização no GitHub Pages
+## Publicação
 
-1. No repositório do GitHub, clique em **Add file > Upload files**.
-2. Envie o `index.html` desta pasta (no mesmo nível da versão anterior).
-3. O GitHub reconhecerá a substituição do arquivo anterior; confirme as alterações clicando em **Commit changes / Confirmar alterações**.
-4. A publicação será atualizada automaticamente se GitHub Pages já estiver ativo na branch principal (`main`) e na pasta `/ (root)`.
+No repositório GitHub `pequenas-descobertas`, substitua o arquivo `index.html` na raiz pelo deste pacote e confirme a alteração. O GitHub Pages mantém a mesma URL. Não envie a pasta inteira ou o ZIP; extraia os arquivos primeiro.
 
-> O site ainda não é um aplicativo com login ou prontuários. Ele é público no GitHub Pages. Não inclua dados identificáveis de pacientes. Os registros de observação são temporários, ficam apenas na aba aberta e podem ser exportados manualmente.
+**Atenção:** GitHub Pages é um site público. Não inclua PTS, diagnósticos, nomes ou registros identificáveis de pacientes no repositório. As fichas são sugestões de mediação, não protocolos validados nem substitutos de avaliação clínica.
 
-## Estrutura
-
-- `index.html` — aplicativo inteiro; sem bibliotecas externas.
-- `README.md` — estas instruções.
-
-## Considerações clínicas
-
-As propostas não são instrumentos de avaliação, não asseguram resultados e não substituem o PTS, a mediação profissional nem o sistema robusto de Comunicação Aumentativa e Alternativa utilizado pelo paciente. As fichas são exemplos de estratégias e precisam ser ajustadas à pessoa e ao contexto.
+## Tecnologia
+HTML, CSS, JavaScript e ícones SVG originais em um único arquivo, sem bibliotecas externas.
